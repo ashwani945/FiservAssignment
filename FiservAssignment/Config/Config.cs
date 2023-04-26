@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Drawing;
 using System.Security.Policy;
 
@@ -13,6 +13,8 @@ namespace FiservAssignment.Config
     public class BrowserType
     {
         public string ChromeBrowser { get; set; }
+        public string FireFoxBrowser { get; set; }
+        public string EdgeBrowser { get; set; }
     }
 
     public class SearchEngine
