@@ -1,6 +1,8 @@
 {
   "BrowserType": {
-    "ChromeBrowser": "chrome"
+    "ChromeBrowser": "chrome",
+    "FireFoxBrowser": "firefox",
+    "EdgeBrowser": "edge"
 
   },
   "SearchEngine": {
